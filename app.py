@@ -143,7 +143,7 @@ def footer():
               width=px(25), height=px(25)),
         " by Anurag Parashar & Utkarsh Gupta",
         br(),
-        # link("https://github.com/alooperalta/Fake-News-Detection-System", image('https://github.com/alooperalta/Fake-News-Detection-System/blob/main/gitLogo.png?raw=true',height="40px")),
+        link("https://github.com/AnuragParashar2000/Movie-Review-Sentiment-Analysis", image('https://github.com/alooperalta/Fake-News-Detection-System/blob/main/gitLogo.png?raw=true',height="40px")),
     ]
     layout(*myargs)
 
